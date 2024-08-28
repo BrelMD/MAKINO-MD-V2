@@ -20,17 +20,17 @@ global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
 
-global.Owner = ["2348074439626"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.Owner = ["242064406203"]; //like 2347080968564 
+global.OwnerName =  "💀ᡃ⃢⃟🇨🇬𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎🇨🇬ᡃ⃢⃟⃢💀)";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
-global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
-global.author = "TAIRA MAKINO";                               //Do not change.
+global.packname = "♱💀ᡃ⃢⃟🇨🇬𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎🇨🇬ᡃ⃢⃟⃢💀)♱♡⃤";                             //Do not change.
+global.author = "💀ᡃ⃢⃟🇨🇬𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎🇨🇬ᡃ⃢⃟⃢💀)";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
 global.menutype = "v3"
 
-global.prefa = ['','!','.',','] 
+global.prefa = ['.'] 
 
 //
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
