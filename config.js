@@ -12,15 +12,15 @@ global.antitags = false;
 
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = true;                //make true to enable auto recording
-global.groupevent = true;                //This is the new variable for controlling group event handling.
+global.autoRecord = false;                //make true to enable auto recording
+global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = false;                 //make true to view statuses 
 global.ANTI_BOT = false;
 global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
 
-global.Owner = ["242064406203"]; //like 2347080968564 
+global.Owner = ["242055617560"]; //like 2347080968564 
 global.OwnerName =  "💀ᡃ⃢⃟🇨🇬𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎🇨🇬ᡃ⃢⃟⃢💀)";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 global.packname = "♱💀ᡃ⃢⃟🇨🇬𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎🇨🇬ᡃ⃢⃟⃢💀)♱♡⃤";                             //Do not change.
